@@ -84,5 +84,14 @@ Controls line thickness.
 Controls optional color randomization.
 
 - `False` = all three motifs use the selected color in the color parameter.
-- `True` = three different colors are randomly selected from the palette of colors I put. 
+- `True` = three different colors are randomly selected from the palette of colors I put.
+
+## Requirements
+
+This project was made in Google Colab using the ColabTurtle library
+provided in the IAT 460 lab materials. The project also uses Python's built-in
+`random` module for optional color randomization.
+
+No additional external libraries are required beyond those provided in the
+course lab environment.
 
