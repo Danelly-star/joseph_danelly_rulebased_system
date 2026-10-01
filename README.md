@@ -5,7 +5,7 @@ Github Repository Link:https://github.com/Danelly-star/joseph_danelly_rulebased_
 
 ## Description
 
-The Mosaic Pattern Designer is L-System-based. The program uses recursive production rules and
+The Mosaic Pattern Tile Designer is L-System-based. The program uses recursive production rules and
 Turtle graphics to generate geometric motifs inspired by decorative mosaic tile
 patterns.
 
