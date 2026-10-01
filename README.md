@@ -1,7 +1,7 @@
 # A2---Implement-a-Rule-Based-System - Danelly Joseph (301544396)
 Github Repository Link:https://github.com/Danelly-star/joseph_danelly_rulebased_system.git
 
-# Mosaic Pattern Designer Using L-Systems
+# Mosaic Pattern Tile Designer Using L-Systems
 
 ## Description
 
